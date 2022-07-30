@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>454</width>
+    <height>763</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <layout class="QGridLayout" name="gridLayout">
+    <item row="4" column="0">
+     <widget class="QGroupBox" name="groupBox">
+      <property name="title">
+       <string>GroupBox</string>
+      </property>
+     </widget>
+    </item>
+    <item row="0" column="0">
+     <widget class="QFrame" name="frame">
+      <property name="frameShape">
+       <enum>QFrame::StyledPanel</enum>
+      </property>
+      <property name="frameShadow">
+       <enum>QFrame::Raised</enum>
+      </property>
+      <widget class="QTableWidget" name="tableWidget">
+       <property name="geometry">
+        <rect>
+         <x>0</x>
+         <y>0</y>
+         <width>431</width>
+         <height>351</height>
+        </rect>
+       </property>
+       <row>
+        <property name="text">
+         <string>1</string>
+        </property>
+       </row>
+       <row>
+        <property name="text">
+         <string>2</string>
+        </property>
+       </row>
+       <row>
+        <property name="text">
+         <string>3</string>
+        </property>
+       </row>
+       <row>
+        <property name="text">
+         <string>4</string>
+        </property>
+       </row>
+       <row>
+        <property name="text">
+         <string>5</string>
+        </property>
+       </row>
+       <row>
+        <property name="text">
+         <string>6</string>
+        </property>
+       </row>
+       <row>
+        <property name="text">
+         <string>7</string>
+        </property>
+       </row>
+       <row>
+        <property name="text">
+         <string>8</string>
+        </property>
+       </row>
+       <row>
+        <property name="text">
+         <string>9</string>
+        </property>
+       </row>
+       <row>
+        <property name="text">
+         <string>10</string>
+        </property>
+       </row>
+       <row>
+        <property name="text">
+         <string>11</string>
+        </property>
+       </row>
+       <row>
+        <property name="text">
+         <string>12</string>
+        </property>
+       </row>
+       <row>
+        <property name="text">
+         <string>13</string>
+        </property>
+       </row>
+       <row>
+        <property name="text">
+         <string>14</string>
+        </property>
+       </row>
+       <row>
+        <property name="text">
+         <string>15</string>
+        </property>
+       </row>
+       <row>
+        <property name="text">
+         <string>16</string>
+        </property>
+       </row>
+       <row>
+        <property name="text">
+         <string>17</string>
+        </property>
+       </row>
+       <row>
+        <property name="text">
+         <string>18</string>
+        </property>
+       </row>
+       <row>
+        <property name="text">
+         <string>19</string>
+        </property>
+       </row>
+       <row>
+        <property name="text">
+         <string>20</string>
+        </property>
+       </row>
+       <row>
+        <property name="text">
+         <string>21</string>
+        </property>
+       </row>
+       <row>
+        <property name="text">
+         <string>22</string>
+        </property>
+       </row>
+       <row>
+        <property name="text">
+         <string>23</string>
+        </property>
+       </row>
+       <row>
+        <property name="text">
+         <string>24</string>
+        </property>
+       </row>
+       <row>
+        <property name="text">
+         <string>25</string>
+        </property>
+       </row>
+       <row>
+        <property name="text">
+         <string>26</string>
+        </property>
+       </row>
+       <row>
+        <property name="text">
+         <string>27</string>
+        </property>
+       </row>
+       <row>
+        <property name="text">
+         <string>28</string>
+        </property>
+       </row>
+       <row>
+        <property name="text">
+         <string>29</string>
+        </property>
+       </row>
+       <row>
+        <property name="text">
+         <string>30</string>
+        </property>
+       </row>
+       <row>
+        <property name="text">
+         <string>31</string>
+        </property>
+       </row>
+       <row>
+        <property name="text">
+         <string>新建行</string>
+        </property>
+       </row>
+       <row>
+        <property name="text">
+         <string>32</string>
+        </property>
+       </row>
+       <row>
+        <property name="text">
+         <string>33</string>
+        </property>
+       </row>
+       <row>
+        <property name="text">
+         <string>34</string>
+        </property>
+       </row>
+       <row>
+        <property name="text">
+         <string>35</string>
+        </property>
+       </row>
+       <row>
+        <property name="text">
+         <string>36</string>
+        </property>
+       </row>
+       <row>
+        <property name="text">
+         <string>37</string>
+        </property>
+       </row>
+       <row>
+        <property name="text">
+         <string>38</string>
+        </property>
+       </row>
+       <row>
+        <property name="text">
+         <string>39</string>
+        </property>
+       </row>
+       <row>
+        <property name="text">
+         <string>40</string>
+        </property>
+       </row>
+       <row>
+        <property name="text">
+         <string>41</string>
+        </property>
+       </row>
+       <row>
+        <property name="text">
+         <string>42</string>
+        </property>
+       </row>
+       <row>
+        <property name="text">
+         <string>43</string>
+        </property>
+       </row>
+       <row>
+        <property name="text">
+         <string>44</string>
+        </property>
+       </row>
+       <row>
+        <property name="text">
+         <string>45</string>
+        </property>
+       </row>
+       <row>
+        <property name="text">
+         <string>46</string>
+        </property>
+       </row>
+       <row>
+        <property name="text">
+         <string>47</string>
+        </property>
+       </row>
+       <row>
+        <property name="text">
+         <string>48</string>
+        </property>
+       </row>
+       <row>
+        <property name="text">
+         <string>50</string>
+        </property>
+       </row>
+       <column>
+        <property name="text">
+         <string>ID</string>
+        </property>
+       </column>
+       <column>
+        <property name="text">
+         <string>经度</string>
+        </property>
+       </column>
+       <column>
+        <property name="text">
+         <string>纬度</string>
+        </property>
+       </column>
+       <column>
+        <property name="text">
+         <string>高度</string>
+        </property>
+       </column>
+       <column>
+        <property name="text">
+         <string>速度</string>
+        </property>
+       </column>
+       <column>
+        <property name="text">
+         <string>任务</string>
+        </property>
+       </column>
+       <column>
+        <property name="text">
+         <string>间隔</string>
+        </property>
+       </column>
+       <column>
+        <property name="text">
+         <string>飞行模式</string>
+        </property>
+       </column>
+       <column>
+        <property name="text">
+         <string>时间</string>
+        </property>
+       </column>
+       <column>
+        <property name="text">
+         <string>机头指向</string>
+        </property>
+       </column>
+       <column>
+        <property name="text">
+         <string>半径</string>
+        </property>
+       </column>
+      </widget>
+     </widget>
+    </item>
+    <item row="6" column="0">
+     <widget class="QPushButton" name="pushButton_2">
+      <property name="text">
+       <string>+</string>
+      </property>
+     </widget>
+    </item>
+    <item row="5" column="0">
+     <widget class="QPushButton" name="pushButton">
+      <property name="text">
+       <string>open</string>
+      </property>
+     </widget>
+    </item>
+    <item row="7" column="0">
+     <widget class="QPushButton" name="pushButton_3">
+      <property name="text">
+       <string>-</string>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>454</width>
+     <height>26</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menu">
+    <property name="title">
+     <string>文件</string>
+    </property>
+    <addaction name="actionsss"/>
+   </widget>
+   <widget class="QMenu" name="menu_2">
+    <property name="title">
+     <string>运行</string>
+    </property>
+    <addaction name="action_R"/>
+   </widget>
+   <widget class="QMenu" name="menu_3">
+    <property name="title">
+     <string>切换</string>
+    </property>
+    <addaction name="action"/>
+   </widget>
+   <addaction name="menu"/>
+   <addaction name="menu_2"/>
+   <addaction name="menu_3"/>
+  </widget>
+  <action name="actionsss">
+   <property name="text">
+    <string>读取(&amp;E)</string>
+   </property>
+  </action>
+  <action name="action_R">
+   <property name="text">
+    <string>运行(&amp;R)</string>
+   </property>
+  </action>
+  <action name="action">
+   <property name="text">
+    <string>切换图传</string>
+   </property>
+  </action>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
